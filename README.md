@@ -10,3 +10,10 @@
 
 - https://github.com/autonomio/talos
 
+## Probabilistic Modeling
+
+- http://mc-stan.org/
+- http://edwardlib.org/
+- https://docs.pymc.io/
+- http://pyro.ai/
+
